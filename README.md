@@ -1,4 +1,4 @@
-# DEMO nền tảng Innoway của Viettel
+# DEMO MQTT với mosquitto
 
 ## Tổng quan
 - Sẽ gồm 3 thiết bị là sensor, controller và actuator
